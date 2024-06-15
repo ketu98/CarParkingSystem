@@ -18,7 +18,7 @@ This project aims to provide a basic system for booking and managing parking slo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CarParkingSystem.git
+    git clone https://github.com/ketu98/CarParkingSystem.git
     ```
 
 2. Open the solution in Visual Studio:
